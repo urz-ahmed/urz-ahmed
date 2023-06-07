@@ -14,6 +14,5 @@
         <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=urz-ahmed&show_icons=true&count_private=true&theme=dark" width="500"></a>
     </div>
     <br/>
- <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
----
-[![](https://visitcount.itsvg.in/api?id=pagsum&icon=1&color=9)](https://visitcount.itsvg.in)
+ <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
