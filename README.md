@@ -1,5 +1,5 @@
 ## 💫 About Me:
- -🌱 I’m currently learning Data Structure and Algorithms<br><br>- 💬 Ask me about Web Development<br><br>- 📫 How to reach me urooz2002@gmail.com<br><br>- ⚡ Fun fact I am also a casual gamer
+ - 💬 Looking for collaborations?<br><br>- 📫 How to reach me urooz2002@gmail.com<br><br>-
 
 
 ## 🌐 Connect with me:
