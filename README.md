@@ -12,7 +12,7 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at urjahmad@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1bcM-16wMzlEgQ3p8s0uZr4pqjs0gQheI/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1CxarDMNwj4yEu_BHqV4foTCHIgIvCcQY/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
